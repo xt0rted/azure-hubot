@@ -5,7 +5,10 @@
   "author": "Brian Surowiec",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "applicationinsights": "^0.17.0",
+    "coffee-script": "^1.11.1",
     "hubot": "^2.19.0",
+    "hubot-azure-scripts": "^0.1.7",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
